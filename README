@@ -9,3 +9,12 @@ I started by following a tutorial but in the end I programmed it without followi
 A copy of the wordle game by Josh Wardle.
 This game I made by following a tutorial step by step:
 https://realpython.com/python-wordle-clone/
+To play the game:
+-  cd .\wordle_clone\ (Open 'wordle_clone' folder)
+- (Activate virtual environment):
+	python -m venv venv
+	venv\Scripts\Activate
+- python -m pip install rich (install rich)
+- .\wyrdle.py (run the program and play!)
+
+
